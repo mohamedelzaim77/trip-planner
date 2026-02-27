@@ -1,2 +1,2 @@
-# trip-planner
-An intelligent trip and vacation planner application - Graduation Project
+# Trip Planner
+A project to help plan your trips easily and efficiently.
